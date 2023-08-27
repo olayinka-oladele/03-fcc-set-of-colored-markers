@@ -1,16 +1,18 @@
-# Project Name
+# FCC CAFE MENU
 
-> One paragraph statement about the project.
+> Usin HTML tags and CSS properties building Cafe Menu.
 
-![screenshot](./app_screenshot.png)
+![screenshot](./images/app_screenshort.png)
 
 Additional description of the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- HTML5 elements -`div`.
+- Linters
+  - [Prettier](https://prettier.io/),
+  - [Stylelint](https://stylelint.io/).
+- GitHub Action
 
 ## Live Demo
 
@@ -21,7 +23,7 @@ Additional description of the project and its features.
 - Clone the project
 
 ```bash
-git clone https://github.com/user/html-css-template.git
+git git@github.com:olayinka-oladele/03-fcc-set-of-colored-markers.git
 
 ```
 
@@ -70,9 +72,9 @@ yarn hint
 
 ## 👤 Author
 
-- Github: [@author](https://github.com/author)
-- Twitter: [@author](https://twitter.com/author)
-- Linkedin: [@author](https://www.linkedin.com/in/author/)
+- Github: [@olayinka-oladele](https://github.com/olayinka-oladele)
+- Freecodecamp: [@olayinka-oladele](https://freecodecamp.com/author)
+- Linkedin: [@olayinka-oladele](https://www.linkedin.com/in/author/)
 
 ## 🤝 Contributing
 
@@ -86,7 +88,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
+- https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-colors-by-building-a-set-of-colored-markers/step-6
 - Inspiration, resources/assets used
 - etc
 
